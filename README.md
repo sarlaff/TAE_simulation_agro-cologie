@@ -26,3 +26,5 @@ productivité du travail
 marge brute
 
 Consommation d’intrants
+
+économie sur l'achat d'intrants
