@@ -15,7 +15,7 @@ Fournir un outil d’aide à la décision pour les politiques publiques agricole
 
 Méthodologie
 
-Langage / outils utilisés : Python/GAMS logiciel
+Langage / outils utilisés : GAMS language/GAMS logiciel
 
 Approche : Optimisation technico-économique et simulation de scénarios basée sur l'intégration du risque économique et la minimisation des écarts.
 
