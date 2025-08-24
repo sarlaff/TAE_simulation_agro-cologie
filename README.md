@@ -1,30 +1,54 @@
 # TAE_simulation_agroécologie
 
-Description
-Code de simulation des scénarios de transition agroécologique, via le logiciel GAMS. La simulation concerne trois classes de tailles d’exploitations agricoles (&lt;5 ha, 5-20 ha, >20 ha) et trois scénarions de TAE : Réduction progressive des phytosanitaires, diversification culturale, recyclage de la matière organique animale et scénarios croisés.
+Agroecological Transition Scenarios Simulation
 
-Objectifs 
 
-Simuler différents scénarios de transition agroécologique (réduction intrants, diversification, recyclage, etc.).
 
-Évaluer les effets sur les indicateurs économiques.
 
-Comparer les trajectoires possibles pour les trois classes de taille d’exploitation.
+Overview
 
-Fournir un outil d’aide à la décision pour les politiques publiques agricoles.
+This project simulates agroecological transition scenarios using GAMS to evaluate economic and productivity outcomes across different farm sizes. It is designed to support data-driven decision-making for agricultural policies and sustainable farming strategies.
 
-Méthodologie
+The simulation covers three farm size categories:
 
-Langage / outils utilisés : GAMS language/GAMS logiciel
+Small farms: < 5 ha
 
-Approche : Optimisation technico-économique et simulation de scénarios basée sur l'intégration du risque économique et la minimisation des écarts.
+Medium farms: 5–20 ha
 
-Indicateurs :
+Large farms: > 20 ha
 
-productivité du travail
+The model tests three main transition scenarios:
 
-marge brute
+Progressive reduction of pesticides
 
-Consommation d’intrants
+Crop diversification
 
-économie sur l'achat d'intrants
+Recycling of animal organic matter
+
+Cross-scenarios combining the above approaches
+
+Objectives
+
+Simulate diverse agroecological transition strategies
+
+Assess impacts on economic performance
+
+Compare outcomes across different farm sizes
+
+Provide a decision-support tool for policymakers and stakeholders
+
+Methodology
+
+Tools: GAMS language / GAMS software
+
+Approach: Techno-economic optimization and scenario simulation, integrating economic risk and minimizing deviations.
+
+Key Indicators
+
+Labor productivity
+
+Gross margin
+
+Input consumption
+
+Savings on input costs
